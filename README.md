@@ -12,5 +12,5 @@ Github -->
 So you can create a .exe file from this code easily by using a python library (Pyinstaller)
 just install this module and download this project from this repo and open it in your IDE or code editor 
 open the terminal and write -->
-Pyinstaller browser.py --onefile
+((Pyinstaller browser.py --onefile))
 wait for some time & this will create the .exe file and now you can easily share the executable file to anyone.
